@@ -10,7 +10,7 @@ bool prime(int n){
             return is_prime;
         }
     }
-    
+    return is_prime;
 }
 int main(){
     int a;
