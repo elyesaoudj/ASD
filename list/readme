@@ -1,1 +1,2 @@
-
+we need to implement these exercises using only the provided list.h functions, we 
+should only rely on createNode, deleteNode, getValue, setValue, getNext, and setNext
